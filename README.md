@@ -1,6 +1,6 @@
 ### Hi, 🐐
 
-I am here to 
+***I am here to***
 - 🔭 learn
 - 🏃 compete
 - 👫 collaborate
@@ -8,9 +8,9 @@ I am here to
 
 As developers, we are responsible for the future of technology. It is up to us whether we build a future for our children or conquer in the name of greed.
 
-I choose a side long ago, based on the following quote *"If you don't know the helpline, you are the helpline"*.
+I choose a side long ago, based on the following quote ***"If you don't know the helpline, you are the helpline"***.
 
-Check my profile, and see how can i help you. 📣
+**Check my profile, and see how I can help you. 📣**
 
 ## Profile
 Property                 | Data  
@@ -52,6 +52,5 @@ Here is some project what i am currently developing as a hobby:
 
 ## Thank you
 
----
 
 🐐💩
