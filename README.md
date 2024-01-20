@@ -4,11 +4,11 @@
 - 🔭 learn
 - 🏃 compete
 - 👫 collaborate
-- 💻 and work, because...
+- 💻 and work
 
-As developers, we are responsible for the future of technology. It is up to us whether we build a future for our children or conquer in the name of greed.
+As developers, we are responsible for the future of technology.
 
-I choose a side long ago, based on the following quote ***"If you don't know the helpline, you are the helpline"***.
+My guiding principle is: ***"If you don't know the helpline, you are the helpline"***.
 
 **Check my profile, and see how I can help you. 📣**
 
