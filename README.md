@@ -49,6 +49,10 @@ Here is some project what i am currently developing as a hobby:
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=entroped&repo=gpt-cloud-function&theme=dark)](https://github.com/entroped/gpt-cloud-function) ![GPT Assistant](./img/gpt_assistant.png)
+
+---
+
 ## My Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reterics&layout=compact&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reterics&show_icons=true&theme=dark&hide=prs)
