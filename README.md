@@ -53,6 +53,10 @@ Here is some project what i am currently developing as a hobby:
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Reterics&repo=storager&theme=dark)](https://github.com/Reterics/storager) ![StorageR](./img/storager.png)
+
+---
+
 ## My Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reterics&layout=compact&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reterics&show_icons=true&theme=dark&hide=prs)
