@@ -60,6 +60,7 @@ Here is some project what i am currently developing as a hobby:
 
 ## My Stats
 
+[![wakatime](https://wakatime.com/badge/user/7280a0d0-d60b-4521-a63b-d823468d18b7.svg)](https://wakatime.com/@7280a0d0-d60b-4521-a63b-d823468d18b7)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reterics&layout=compact&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reterics&show_icons=true&theme=dark&hide=prs)
 
 
